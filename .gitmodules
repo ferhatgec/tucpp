@@ -1,0 +1,3 @@
+[submodule "libs/curl4cpp"]
+	path = libs/curl4cpp
+	url = https://github.com/ferhatgec/curl4cpp.git
